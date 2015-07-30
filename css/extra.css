@@ -1,5 +1,118 @@
-* body {
+.photocontainer {
+	margin-right: auto;
+	margin-left: auto;
+	width: 70%;
+	padding: 30px;
+}
+
+.photocontainer div a img {
+	width: 50%;
+	height: 50%;
+	margin: 20px 20px;
+
+
+}
+
+.panel {
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.photos{
+
+width:186px ;
+height:186px ;
+margin-right:auto; 
+margin-left:auto;
+display: inline;
+margin-top:100px; 
+	}
+	.photos li{
+
+list-style: none;
+display: inline;
+
+	}
+.navbar-brand {
+
+font-size: 12px;
+display: inline-block;
+float: left;
+}
+body {
+
+	background: blue;
+	background:url('pics/handala.png')no-repeat;
+
+background-size:100%;
+height: 140px;
+display:block;
+padding:0 !important;
+margin:0;
+}
+
+.footer {
+	 
+	bottom:0px;
+	width: 100%;
+	height: 20%;
+	background-color:green;
 	
-	background-image:;
+	background-size: 35%;
+    background-repeat: no-repeat;
+}
+#menupage{
+
+	background:url("../pics/handala2.png");
+}
+h1{
+	border:solid;
+
+}
+
+.menuwrapper{
+width: 70%;
+margin-left: auto;
+margin-right: auto;
+background:gray;
+padding: 40px;
+text-align: center;
+}
+dl dt {
+
+text-align: center;
+}
+
+dl dt dd {
+
+	text-align: center;
+}
+
+.photos li a img {
+	width: 186px;
+	height: 186px;
+
+}
+.maincontent {
+margin-left:auto;
+margin-right:auto;
+width: 60% ;
+}
+#menubody{
+background:url("../pics/handala2.png");
+}
+
+.warning{
+      border:solid;
+        }
+#gallerybody{
+background-image: url("../pics/handala2.png");
+
+
+}
+.navbar {
+
+background-color:black;
+opacity: 50%;
 
 }
